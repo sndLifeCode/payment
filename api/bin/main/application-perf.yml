@@ -1,0 +1,5 @@
+app:
+  perf:
+    seed:
+      enabled: true
+      rows: 500000
